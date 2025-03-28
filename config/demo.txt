@@ -22,7 +22,7 @@ CETV2
 CETV4
 CETV5
 
-#咪咕央视,#genre#
+📺咪咕央视,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
